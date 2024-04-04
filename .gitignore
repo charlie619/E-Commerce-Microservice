@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/eshop-microservices/v17/.suo
+/src/.vs/eshop-microservices/config
+/src/.vs/eshop-microservices/DesignTimeBuild
+/src/.vs/eshop-microservices/FileContentIndex
+/src/.vs/eshop-microservices/v17/.suo

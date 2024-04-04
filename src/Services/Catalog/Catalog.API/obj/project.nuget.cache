@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lXWZXk1VzPDE/Sj40NBgp6FDZ+d9nIRvr6KpXOznKbKadxMjQogVbpkzhKMDYD3syjovNzqAHPjyMbxmh6bSw==",
+  "success": true,
+  "projectFilePath": "C:\\E-Commerce Microservice Project\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gsingh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
