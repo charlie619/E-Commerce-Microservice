@@ -9,6 +9,8 @@ C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\ne
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Carter.Analyzers.dll
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FastExpressionCompiler.dll
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.dll
+C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Humanizer.dll
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\JasperFx.CodeGeneration.dll
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\JasperFx.Core.dll
@@ -151,6 +153,7 @@ C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\ne
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfoInputs.cache
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfo.cs
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\staticwebassets.build.json
@@ -167,3 +170,6 @@ C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\ne
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.NpgSql.dll
+C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+C:\E-Commerce Microservice Project\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll

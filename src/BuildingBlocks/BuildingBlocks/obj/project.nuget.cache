@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AgzkF72anO5joPyIaWWZZNFLt8NPgMMQV0KUTRnT+J84oadS4VKlFD+7c0mT3KOnlSwl2vgrHoNcOUjqbs80DA==",
+  "dgSpecHash": "rbOJprR7V6t9O7GhG67Fwe6IQKNTUc9Y/rnGQMwHzKhNhEJwAAeVMb7yhnvCzbcUphIlTqtFe5Ihc3e7y0rouA==",
   "success": true,
   "projectFilePath": "C:\\E-Commerce Microservice Project\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gsingh\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\gsingh\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\gsingh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\gsingh\\.nuget\\packages\\mapster\\7.4.1-pre01\\mapster.7.4.1-pre01.nupkg.sha512",
     "C:\\Users\\gsingh\\.nuget\\packages\\mapster.core\\1.2.2-pre01\\mapster.core.1.2.2-pre01.nupkg.sha512",
     "C:\\Users\\gsingh\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
