@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\E-Commerce Microservice Project\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E94364E-2665-4047-84B9-FD0061D2E19F}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\e-commerce microservice project\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E94364E-2665-4047-84B9-FD0061D2E19F}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01DC9AE4-67D9-4C6E-9E2F-2436BF7295D2}|docker-compose.dcproj|c:\\e-commerce microservice project\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01DC9AE4-67D9-4C6E-9E2F-2436BF7295D2}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9970CCA-701A-4A88-A64E-46B3C86699A4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\e-commerce microservice project\\src\\buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9970CCA-701A-4A88-A64E-46B3C86699A4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E94364E-2665-4047-84B9-FD0061D2E19F}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\e-commerce microservice project\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94364E-2665-4047-84B9-FD0061D2E19F}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,26 +126,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomExceptionHandler.cs",
-              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
-              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T19:57:57.311Z",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-04T23:20:34.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\Services\\Basket\\Basket.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
               "ToolTip": "C:\\E-Commerce Microservice Project\\src\\Services\\Basket\\Basket.API\\Program.cs",
               "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T18:58:44.067Z",
               "EditorCaption": ""
