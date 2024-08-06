@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\E-Commerce Microservice Project\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01DC9AE4-67D9-4C6E-9E2F-2436BF7295D2}|docker-compose.dcproj|c:\\e-commerce microservice project\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{01DC9AE4-67D9-4C6E-9E2F-2436BF7295D2}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9820AEB5-8A88-471B-8D43-0998095F2C01}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\e-commerce microservice project\\src\\services\\discount\\discount.grpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9820AEB5-8A88-471B-8D43-0998095F2C01}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E94364E-2665-4047-84B9-FD0061D2E19F}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\e-commerce microservice project\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E94364E-2665-4047-84B9-FD0061D2E19F}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9820AEB5-8A88-471B-8D43-0998095F2C01}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\e-commerce microservice project\\src\\services\\discount\\discount.grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9820AEB5-8A88-471B-8D43-0998095F2C01}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9820AEB5-8A88-471B-8D43-0998095F2C01}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\e-commerce microservice project\\src\\services\\discount\\discount.grpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9820AEB5-8A88-471B-8D43-0998095F2C01}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,27 +131,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-08-04T23:20:34.086Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\Services\\Discount\\Discount.Grpc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\Services\\Discount\\Discount.Grpc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T11:16:11.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
-              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T18:58:44.067Z",
+              "WhenOpened": "2024-08-06T11:13:22.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\E-Commerce Microservice Project\\src\\Services\\Discount\\Discount.Grpc\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Protos\\greet.proto",
+              "ToolTip": "C:\\E-Commerce Microservice Project\\src\\Services\\Discount\\Discount.Grpc\\Protos\\greet.proto",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-04T23:48:50.947Z",
               "EditorCaption": ""
             }
           ]
