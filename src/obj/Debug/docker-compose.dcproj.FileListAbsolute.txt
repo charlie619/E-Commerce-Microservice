@@ -93,3 +93,5 @@ C:\E-Commerce Microservice Project\src\bin\Debug\Grpc.Net.Common.dll
 C:\E-Commerce Microservice Project\src\bin\Debug\Microsoft.Data.Sqlite.dll
 C:\E-Commerce Microservice Project\src\bin\Debug\SQLitePCLRaw.core.dll
 C:\E-Commerce Microservice Project\src\bin\Debug\Discount.Grpc.pdb
+C:\E-Commerce Microservice Project\src\bin\Debug\Grpc.Net.ClientFactory.dll
+C:\E-Commerce Microservice Project\src\bin\Debug\Grpc.Net.Client.dll

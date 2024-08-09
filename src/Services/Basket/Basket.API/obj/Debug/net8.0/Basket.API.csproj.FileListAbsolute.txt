@@ -186,3 +186,10 @@ C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8
 C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.Redis.dll
 C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
 C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\E-Commerce Microservice Project\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Common.dll
